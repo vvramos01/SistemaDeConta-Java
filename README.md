@@ -1,1 +1,2 @@
-# SistemaDeConta-Java
+# Sistema de Conta
+Classe Java que implementa uma conta com limite de saque, oferecendo operações seguras de depósito e saque com validações de saldo e limite. O sistema verifica se o valor do saque respeita o limite da conta e se há saldo suficiente, exibindo mensagens específicas para cada tipo de erro. Desenvolvido para demonstrar conceitos de encapsulamento e regras de negócio em programação orientada a objetos.
